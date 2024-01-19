@@ -6,6 +6,7 @@
 ! Last modified: 6/12/2023
 ! Đừng fork rồi share lung tung nha mấy thím
 ! ========================== General Element Hiding ===========================
+||tiktok.com^
 ###ad_float_right
 ###bar_float
 ###bn_bottom_fixed_left
